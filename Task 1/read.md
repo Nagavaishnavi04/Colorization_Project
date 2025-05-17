@@ -2,10 +2,11 @@
 # Task 1 - Visualizing the Colorization Process
 
 ## 📌 Objective
-This task demonstrates the process of colorizing grayscale images using a CNN-based model. The key focus is to **visualize intermediate stages** of the colorization process to understand how the model progressively adds color.
+Visualizing the Colorization Process. Description: Visualize the intermediate stages of your model's colorization process to better understand how the image transitions from grayscale to color. Guidelines: Use visual tools to demonstrate how colorization progresses across your model's layers or stages. GUI is not necessary.
+
 
 ## 🛠️ Files Included
-- `model_training.ipynb`: Jupyter notebook for preprocessing, training, and visualization.
+- `Task1.ipynb`: Jupyter notebook for preprocessing, training, and visualization.
 - `sample_images/`: Folder with grayscale test images.
 - `requirements.txt`: List of dependencies.
 
